@@ -1,0 +1,1 @@
+Desenvolver um sistema web modular com a utilização de Golang como nosso back-end e Angular como o front-end para atender a necessidade de pequenos proprietários de imóveis.
